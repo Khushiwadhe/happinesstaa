@@ -1,0 +1,646 @@
+State,City,Zone,Category,Budget,Age Group,Ideal Travel Months,Gender,Destination
+Madhya Pradesh,Bhopal,Central,National Park,Medium,18-60,September-December,Both,Satpura National Park
+Madhya Pradesh,Bhopal,Central,Lake,Low,18-60,January-April,Both,Upper Lake
+Madhya Pradesh,Bhopal,Central,Historical,Medium,18-60,September-December,Both,Taj-ul-Masajid
+Madhya Pradesh,Bhopal,Central,Museum,Low,18-60,January-April,Both,Indira Gandhi Rashtriya Manav Sangrahalaya
+Madhya Pradesh,Bhopal,Central,Zoo,Low,Teenagers,May-August,Both,Van Vihar National Park
+Madhya Pradesh,Indore,Central,Food,Low,18-60,January-April,Both,Sarafa Bazaar
+Madhya Pradesh,Indore,Central,Religious,Medium,60-100,May-August,Both,Kanch Mandir
+Madhya Pradesh,Indore,Central,Nature,Medium,18-60,September-December,Both,Patalpani Waterfall
+Madhya Pradesh,Indore,Central,Historical,Medium,18-60,January-April,Both,Rajwada Palace
+Madhya Pradesh,Indore,Central,Shopping,Low,18-60,May-August,Both,MT Cloth Market
+Madhya Pradesh,Gwalior,Central,Historical,Medium,18-60,September-December,Both,Gwalior Fort
+Madhya Pradesh,Gwalior,Central,Museum,Medium,18-60,January-April,Both,Jai Vilas Palace Museum
+Madhya Pradesh,Gwalior,Central,Religious,Medium,60-100,May-August,Both,Sas Bahu Temple
+Madhya Pradesh,Gwalior,Central,Wildlife,Low,18-60,September-December,Both,Madhav National Park
+Madhya Pradesh,Gwalior,Central,Monument,Medium,18-60,January-April,Both,Teli Ka Mandir
+Madhya Pradesh,Ujjain,Central,Religious,Medium,60-100,May-August,Both,Mahakaleshwar Temple
+Madhya Pradesh,Ujjain,Central,Historical,Medium,18-60,September-December,Both,Kaliadeh Palace
+Madhya Pradesh,Ujjain,Central,Monument,Medium,18-60,January-April,Both,Ram Ghat
+Madhya Pradesh,Ujjain,Central,Zoo,Low,Teenagers,May-August,Both,Ujjain Zoo
+Madhya Pradesh,Ujjain,Central,Festival,Medium,18-60,January-April,Both,Kumbh Mela (once every 12 years)
+Madhya Pradesh,Khajuraho,Central,Monument,Medium,18-60,January-April,Both,Khajuraho Temples
+Madhya Pradesh,Khajuraho,Central,Museum,Medium,18-60,September-December,Both,Archaeological Museum
+Madhya Pradesh,Khajuraho,Central,Nature,Medium,18-60,May-August,Both,Panna National Park
+Madhya Pradesh,Khajuraho,Central,Lake,Low,18-60,January-April,Both,Benisagar Dam
+Madhya Pradesh,Khajuraho,Central,Religious,Medium,60-100,September-December,Both,Dulhadev Temple
+Rajasthan,Jaipur,North,Historical,Medium,18-60,September-December,Both,Amber Fort
+Rajasthan,Jaipur,North,Monument,Medium,18-60,January-April,Both,Hawa Mahal
+Rajasthan,Jaipur,North,Museum,Low,18-60,May-August,Both,Albert Hall Museum
+Rajasthan,Jaipur,North,Shopping,Low,18-60,January-April,Both,Johri Bazaar
+Rajasthan,Jaipur,North,Palace,Medium,18-60,September-December,Both,City Palace
+Rajasthan,Jodhpur,West,Historical,Medium,18-60,September-December,Both,Mehrangarh Fort
+Rajasthan,Jodhpur,West,Religious,Medium,60-100,May-August,Both,Jaswant Thada
+Rajasthan,Jodhpur,West,Palace,Medium,18-60,January-April,Both,Umaid Bhawan Palace
+Rajasthan,Jodhpur,West,Market,Low,18-60,May-August,Both,Clock Tower Market
+Rajasthan,Jodhpur,West,Nature,Medium,18-60,September-December,Both,Rao Jodha Desert Rock Park
+Rajasthan,Udaipur,South,Lake,Medium,18-60,January-April,Both,Lake Pichola
+Rajasthan,Udaipur,South,Palace,Medium,18-60,September-December,Both,City Palace
+Rajasthan,Udaipur,South,Museum,Low,18-60,May-August,Both,Bagore Ki Haveli
+Rajasthan,Udaipur,South,Nature,Medium,18-60,January-April,Both,Sajjangarh Palace (Monsoon Palace)
+Rajasthan,Udaipur,South,Garden,Low,18-60,May-August,Both,Saheliyon Ki Bari
+Rajasthan,Jaisalmer,West,Historical,Medium,18-60,September-December,Both,Jaisalmer Fort
+Rajasthan,Jaisalmer,West,Desert Safari,Medium,18-60,January-April,Both,Sam Sand Dunes
+Rajasthan,Jaisalmer,West,Lake,Low,18-60,May-August,Both,Gadisar Lake
+Rajasthan,Jaisalmer,West,Religious,Medium,60-100,September-December,Both,Jain Temples
+Rajasthan,Jaisalmer,West,Heritage,Medium,18-60,January-April,Both,Patwon Ki Haveli
+Rajasthan,Pushkar,North,Religious,Medium,60-100,May-August,Both,Brahma Temple
+Rajasthan,Pushkar,North,Lake,Low,18-60,January-April,Both,Pushkar Lake
+Rajasthan,Pushkar,North,Festival,Medium,18-60,September-December,Both,Pushkar Camel Fair
+Rajasthan,Pushkar,North,Adventure,Medium,18-60,January-April,Both,Hot Air Balloon Ride
+Rajasthan,Pushkar,North,Market,Low,18-60,May-August,Both,Pushkar Bazaar
+Uttar Pradesh,Agra,North,Monument,Medium,18-60,September-December,Both,Taj Mahal
+Uttar Pradesh,Agra,North,Fort,Medium,18-60,January-April,Both,Agra Fort
+Uttar Pradesh,Agra,North,Garden,Low,18-60,May-August,Both,Mehtab Bagh
+Uttar Pradesh,Agra,North,Religious,Medium,60-100,September-December,Both,Jama Masjid
+Uttar Pradesh,Agra,North,Shopping,Low,18-60,January-April,Both,Sadar Bazaar
+Uttar Pradesh,Varanasi,North,Religious,Medium,60-100,May-August,Both,Kashi Vishwanath Temple
+Uttar Pradesh,Varanasi,North,Ghat,Medium,18-60,September-December,Both,Dashashwamedh Ghat
+Uttar Pradesh,Varanasi,North,Cultural,Medium,18-60,January-April,Both,Banaras Hindu University
+Uttar Pradesh,Varanasi,North,Festival,Medium,18-60,January-April,Both,Dev Deepawali
+Uttar Pradesh,Varanasi,North,Historical,Medium,18-60,September-December,Both,Ramnagar Fort
+Uttar Pradesh,Lucknow,North,Historical,Medium,18-60,January-April,Both,Bara Imambara
+Uttar Pradesh,Lucknow,North,Garden,Low,18-60,May-August,Both,Ambedkar Memorial Park
+Uttar Pradesh,Lucknow,North,Shopping,Low,18-60,September-December,Both,Hazratganj Market
+Uttar Pradesh,Lucknow,North,Food,Low,18-60,January-April,Both,Tunday Kababi
+Uttar Pradesh,Lucknow,North,Museum,Medium,18-60,September-December,Both,State Museum Lucknow
+Uttar Pradesh,Allahabad (Prayagraj),North,Religious,Medium,60-100,May-August,Both,Triveni Sangam
+Uttar Pradesh,Allahabad (Prayagraj),North,Fort,Medium,18-60,January-April,Both,Allahabad Fort
+Uttar Pradesh,Allahabad (Prayagraj),North,Festival,Medium,18-60,January-April,Both,Kumbh Mela
+Uttar Pradesh,Allahabad (Prayagraj),North,Monument,Medium,18-60,September-December,Both,Anand Bhavan
+Uttar Pradesh,Allahabad (Prayagraj),North,Museum,Medium,18-60,January-April,Both,Allahabad Museum
+Uttar Pradesh,Mathura,North,Religious,Medium,60-100,May-August,Both,Shri Krishna Janmabhoomi
+Uttar Pradesh,Mathura,North,Festival,Medium,18-60,January-April,Both,Holi Festival
+Uttar Pradesh,Mathura,North,Temple,Medium,18-60,September-December,Both,Dwarkadhish Temple
+Uttar Pradesh,Mathura,North,Lake,Low,18-60,January-April,Both,Kusum Sarovar
+Uttar Pradesh,Mathura,North,Garden,Low,18-60,May-August,Both,Seva Kunj
+Maharashtra,Mumbai,West,Beach,Medium,18-60,September-December,Both,Juhu Beach
+Maharashtra,Mumbai,West,Historical,Medium,18-60,January-April,Both,Gateway of India
+Maharashtra,Mumbai,West,Religious,Medium,60-100,May-August,Both,Siddhivinayak Temple
+Maharashtra,Mumbai,West,Nature,Medium,18-60,September-December,Both,Sanjay Gandhi National Park
+Maharashtra,Mumbai,West,Shopping,Low,18-60,January-April,Both,Colaba Causeway
+Maharashtra,Pune,West,Historical,Medium,18-60,September-December,Both,Shaniwar Wada
+Maharashtra,Pune,West,Religious,Medium,60-100,May-August,Both,Dagadusheth Halwai Ganapati Temple
+Maharashtra,Pune,West,Nature,Medium,18-60,January-April,Both,Sinhagad Fort
+Maharashtra,Pune,West,Museum,Low,18-60,September-December,Both,Raja Dinkar Kelkar Museum
+Maharashtra,Pune,West,Park,Low,Teenagers,May-August,Both,Rajiv Gandhi Zoological Park
+Maharashtra,Nashik,West,Religious,Medium,60-100,May-August,Both,Trimbakeshwar Temple
+Maharashtra,Nashik,West,Festival,Medium,18-60,January-April,Both,Kumbh Mela (once every 12 years)
+Maharashtra,Nashik,West,Nature,Medium,18-60,September-December,Both,Pandav Leni Caves
+Maharashtra,Nashik,West,Winery,Medium,18-60,January-April,Both,Sula Vineyards
+Maharashtra,Nashik,West,Lake,Low,18-60,May-August,Both,Gangapur Dam
+Maharashtra,Aurangabad,West,Historical,Medium,18-60,September-December,Both,Ajanta Caves
+Maharashtra,Aurangabad,West,Monument,Medium,18-60,January-April,Both,Ellora Caves
+Maharashtra,Aurangabad,West,Historical,Medium,18-60,September-December,Both,Bibi Ka Maqbara
+Maharashtra,Aurangabad,West,Religious,Medium,60-100,May-August,Both,Grishneshwar Temple
+Maharashtra,Aurangabad,West,Fort,Medium,18-60,January-April,Both,Daulatabad Fort
+Maharashtra,Nagpur,west,Lake,Low,18-60,January-April,Both,Futala Lake
+Maharashtra,Nagpur,west,Zoo,Low,Teenagers,May-August,Both,Maharajbagh Zoo
+Maharashtra,Nagpur,west,National Park,Medium,18-60,September-December,Both,Pench National Park
+Maharashtra,Nagpur,west,Religious,Medium,60-100,May-August,Both,Deekshabhoomi
+Maharashtra,Nagpur,west,Food,Low,18-60,January-April,Both,Haldiram’s Factory
+Karnataka,Bengaluru,South,Park,Low,18-60,January-April,Both,Lalbagh Botanical Garden
+Karnataka,Bengaluru,South,Historical,Medium,18-60,September-December,Both,Bangalore Palace
+Karnataka,Bengaluru,South,Museum,Low,18-60,January-April,Both,Visvesvaraya Industrial & Technological Museum
+Karnataka,Bengaluru,South,Religious,Medium,60-100,May-August,Both,ISKCON Temple
+Karnataka,Bengaluru,South,Shopping,Medium,18-60,September-December,Both,Commercial Street
+Karnataka,Mysuru,South,Historical,Medium,18-60,September-December,Both,Mysore Palace
+Karnataka,Mysuru,South,Zoo,Low,Teenagers,May-August,Both,Sri Chamarajendra Zoological Gardens
+Karnataka,Mysuru,South,Religious,Medium,60-100,January-April,Both,Chamundeshwari Temple
+Karnataka,Mysuru,South,Festival,Medium,18-60,September-December,Both,Mysuru Dasara
+Karnataka,Mysuru,South,Lake,Low,18-60,May-August,Both,Karanji Lake
+Karnataka,Hampi,South,Monument,Medium,18-60,January-April,Both,Virupaksha Temple
+Karnataka,Hampi,South,Historical,Medium,18-60,September-December,Both,Vijaya Vittala Temple
+Karnataka,Hampi,South,Nature,Medium,18-60,May-August,Both,Matanga Hill
+Karnataka,Hampi,South,Religious,Medium,60-100,January-April,Both,Achyutaraya Temple
+Karnataka,Hampi,South,Wildlife,Low,18-60,September-December,Both,Daroji Sloth Bear Sanctuary
+Karnataka,Coorg,South,Nature,Medium,18-60,September-December,Both,Raja's Seat
+Karnataka,Coorg,South,National Park,Medium,18-60,January-April,Both,Nagarhole National Park
+Karnataka,Coorg,South,Waterfall,Low,18-60,May-August,Both,Abbey Falls
+Karnataka,Coorg,South,Religious,Medium,60-100,September-December,Both,Omkareshwara Temple
+Karnataka,Coorg,South,Coffee Plantation,Medium,18-60,January-April,Both,Coorg Coffee Estates
+Karnataka,Gokarna,South,Beach,Medium,18-60,September-December,Both,Om Beach
+Karnataka,Gokarna,South,Religious,Medium,60-100,January-April,Both,Mahabaleshwar Temple
+Karnataka,Gokarna,South,Adventure,Medium,18-60,May-August,Both,Kudle Beach Trek
+Karnataka,Gokarna,South,Nature,Low,18-60,January-April,Both,Half Moon Beach
+Karnataka,Gokarna,South,Sunset Point,Low,18-60,September-December,Both,Paradise Beach
+Goa,Panaji,West,Beach,Medium,18-60,October-March,Both,Miramar Beach
+Goa,Panaji,West,Church,Low,18-60,January-April,Both,Our Lady of the Immaculate Conception Church
+Goa,Panaji,West,Casino,High,21-60,September-December,Both,Deltin Royale Casino
+Goa,Panaji,West,Museum,Low,18-60,May-August,Both,Goa State Museum
+Goa,Panaji,West,Wildlife,Medium,18-60,September-December,Both,Dr. Salim Ali Bird Sanctuary
+Goa,Calangute,West,Beach,Medium,18-60,October-March,Both,Calangute Beach
+Goa,Calangute,West,Nightlife,High,21-40,January-April,Both,Tito’s Club
+Goa,Calangute,West,Water Sports,Medium,18-40,September-December,Both,Baga Beach
+Goa,Calangute,West,Market,Low,18-60,May-August,Both,Saturday Night Market
+Goa,Calangute,West,Religious,Low,18-60,January-April,Both,St. Alex Church
+Goa,Margao,West,Beach,Medium,18-60,October-March,Both,Colva Beach
+Goa,Margao,West,Religious,Low,18-60,January-April,Both,Holy Spirit Church
+Goa,Margao,West,Market,Low,18-60,September-December,Both,Margao Municipal Market
+Goa,Margao,West,Historical,Medium,18-60,May-August,Both,Cabo de Rama Fort
+Goa,Margao,West,Nature,Medium,18-60,September-December,Both,Bhagwan Mahavir Wildlife Sanctuary
+Goa,Vasco da Gama,West,Beach,Medium,18-60,October-March,Both,Bogmalo Beach
+Goa,Vasco da Gama,West,Religious,Low,18-60,January-April,Both,St. Andrew’s Church
+Goa,Vasco da Gama,West,Museum,Low,18-60,September-December,Both,Naval Aviation Museum
+Goa,Vasco da Gama,West,Park,Low,18-60,May-August,Both,Japanese Garden
+Goa,Vasco da Gama,West,Shopping,Low,18-60,January-April,Both,New Market
+Goa,Old Goa,West,Church,Low,18-60,October-March,Both,Basilica of Bom Jesus
+Goa,Old Goa,West,Monument,Medium,18-60,January-April,Both,Se Cathedral
+Goa,Old Goa,West,Museum,Low,18-60,September-December,Both,Archaeological Museum
+Goa,Old Goa,West,Religious,Medium,60-100,May-August,Both,Church of St. Francis of Assisi
+Goa,Old Goa,West,Festival,Medium,18-60,December,Both,Feast of St. Francis Xavier
+Gujarat,Ahmedabad,West,Historical,Medium,18-60,September-December,Both,Sabarmati Ashram
+Gujarat,Ahmedabad,West,Lake,Low,18-60,January-April,Both,Kankaria Lake
+Gujarat,Ahmedabad,West,Monument,Medium,18-60,September-December,Both,Jama Masjid
+Gujarat,Ahmedabad,West,Museum,Low,18-60,January-April,Both,Calico Museum of Textiles
+Gujarat,Ahmedabad,West,Festival,Medium,All Ages,January,Both,Uttarayan (Kite Festival)
+Gujarat,Vadodara,West,Historical,Medium,18-60,September-December,Both,Laxmi Vilas Palace
+Gujarat,Vadodara,West,Museum,Low,18-60,January-April,Both,Maharaja Fateh Singh Museum
+Gujarat,Vadodara,West,Religious,Medium,60-100,May-August,Both,Kirti Mandir
+Gujarat,Vadodara,West,Park,Low,18-60,September-December,Both,Sayaji Garden
+Gujarat,Vadodara,West,Shopping,Low,18-60,January-April,Both,Mandvi Gate Market
+Gujarat,Surat,West,Beach,Medium,18-60,September-December,Both,Dumas Beach
+Gujarat,Surat,West,Food,Low,18-60,January-April,Both,Surat Street Food
+Gujarat,Surat,West,Religious,Medium,60-100,May-August,Both,Ambika Niketan Temple
+Gujarat,Surat,West,Zoo,Low,Teenagers,September-December,Both,Sarthana Nature Park
+Gujarat,Surat,West,Shopping,Medium,18-60,January-April,Both,Textile Market
+Gujarat,Dwarka,West,Religious,Medium,60-100,May-August,Both,Dwarkadhish Temple
+Gujarat,Dwarka,West,Beach,Medium,18-60,September-December,Both,Dwarka Beach
+Gujarat,Dwarka,West,Monument,Medium,18-60,January-April,Both,Rukmini Devi Temple
+Gujarat,Dwarka,West,Festival,Medium,18-60,August,Both,Janmashtami Festival
+Gujarat,Dwarka,West,Nature,Low,18-60,January-April,Both,Gopi Talav
+Gujarat,Gir,West,Wildlife,Medium,18-60,September-December,Both,Gir National Park
+Gujarat,Gir,West,Nature,Medium,18-60,January-April,Both,Devalia Safari Park
+Gujarat,Gir,West,Lake,Low,18-60,May-August,Both,Kamleshwar Dam
+Gujarat,Gir,West,Adventure,Medium,18-60,September-December,Both,Jeep Safari in Gir
+Gujarat,Gir,West,Resort,High,18-60,January-April,Both,Luxury Jungle Resorts
+Gujarat,Kutch,West,Desert,Medium,18-60,September-December,Both,Rann of Kutch
+Gujarat,Kutch,West,Festival,High,18-60,December-February,Both,Rann Utsav
+Gujarat,Kutch,West,Wildlife,Medium,18-60,January-April,Both,Kutch Great Indian Bustard Sanctuary
+Gujarat,Kutch,West,Historical,Medium,18-60,September-December,Both,Bhuj Fort
+Gujarat,Kutch,West,Handicrafts,Low,18-60,January-April,Both,Kutchi Handicraft Markets
+Punjab,Amritsar,North,Religious,Medium,60-100,September-December,Both,Golden Temple
+Punjab,Amritsar,North,Historical,Medium,18-60,January-April,Both,Jallianwala Bagh
+Punjab,Amritsar,North,Border Ceremony,Medium,18-60,September-December,Both,Wagah Border
+Punjab,Amritsar,North,Museum,Low,18-60,May-August,Both,Partition Museum
+Punjab,Amritsar,North,Food,Low,18-60,January-April,Both,Amritsari Kulcha at Bharawan Da Dhaba
+Punjab,Ludhiana,North,Park,Low,18-60,January-April,Both,Rakh Bagh
+Punjab,Ludhiana,North,Historical,Medium,18-60,September-December,Both,Lodhi Fort
+Punjab,Ludhiana,North,Museum,Medium,18-60,May-August,Both,Punjab Agricultural University Museum
+Punjab,Ludhiana,North,Religious,Medium,60-100,January-April,Both,Gurudwara Nanaksar Jagraon
+Punjab,Ludhiana,North,Zoo,Low,Teenagers,May-August,Both,Tiger Safari Zoo
+Punjab,Patiala,North,Historical,Medium,18-60,January-April,Both,Qila Mubarak
+Punjab,Patiala,North,Museum,Medium,18-60,September-December,Both,Sheesh Mahal
+Punjab,Patiala,North,Garden,Low,18-60,May-August,Both,Baradari Gardens
+Punjab,Patiala,North,Religious,Medium,60-100,January-April,Both,Gurudwara Dukh Niwaran Sahib
+Punjab,Patiala,North,Shopping,Low,18-60,September-December,Both,Adalat Bazaar
+Punjab,Jalandhar,North,Religious,Medium,60-100,January-April,Both,Devi Talab Mandir
+Punjab,Jalandhar,North,Amusement Park,Medium,18-60,May-August,Both,Wonderland Theme Park
+Punjab,Jalandhar,North,Historical,Medium,18-60,September-December,Both,Rangla Punjab Haveli
+Punjab,Jalandhar,North,Zoo,Low,Teenagers,May-August,Both,Lion Safari Park
+Punjab,Jalandhar,North,Shopping,Low,18-60,January-April,Both,Rainak Bazaar
+Punjab,Bathinda,North,Historical,Medium,18-60,January-April,Both,Qila Mubarak
+Punjab,Bathinda,North,Lake,Low,18-60,May-August,Both,Thermal Lake
+Punjab,Bathinda,North,Religious,Medium,60-100,September-December,Both,Takht Sri Damdama Sahib
+Punjab,Bathinda,North,Park,Low,18-60,January-April,Both,Rose Garden
+Punjab,Bathinda,North,Wildlife,Medium,18-60,May-August,Both,Bir Talab Zoo
+West Bengal,Kolkata,East,Historical,Medium,18-60,September-December,Both,Victoria Memorial
+West Bengal,Kolkata,East,Religious,Medium,60-100,January-April,Both,Dakshineswar Kali Temple
+West Bengal,Kolkata,East,Museum,Low,18-60,May-August,Both,Indian Museum
+West Bengal,Kolkata,East,Park,Low,Teenagers,September-December,Both,Eco Park
+West Bengal,Kolkata,East,Food,Low,18-60,January-April,Both,Park Street
+West Bengal,Darjeeling,East,Nature,Medium,18-60,September-December,Both,Tiger Hill
+West Bengal,Darjeeling,East,Railway,Medium,18-60,January-April,Both,Darjeeling Himalayan Railway
+West Bengal,Darjeeling,East,Monastery,Low,18-60,May-August,Both,Ghoom Monastery
+West Bengal,Darjeeling,East,Zoo,Medium,Teenagers,September-December,Both,Padmaja Naidu Himalayan Zoological Park
+West Bengal,Darjeeling,East,Tea Garden,Medium,18-60,January-April,Both,Happy Valley Tea Estate
+West Bengal,Sundarbans,East,Wildlife,Medium,18-60,September-December,Both,Sundarbans National Park
+West Bengal,Sundarbans,East,Nature,Medium,18-60,January-April,Both,Sajnekhali Wildlife Sanctuary
+West Bengal,Sundarbans,East,River,Low,18-60,May-August,Both,Matla River
+West Bengal,Sundarbans,East,Bird Watching,Medium,18-60,September-December,Both,Netidhopani Watchtower
+West Bengal,Sundarbans,East,Boat Safari,Medium,18-60,January-April,Both,Sundarbans Boat Safari
+West Bengal,Digha,East,Sea Aquarium,Low,18-60,January-April,Both,Marine Aquarium & Research Centre
+West Bengal,Digha,East,Park,Low,Teenagers,May-August,Both,Amarabati Park
+West Bengal,Digha,East,Fishing,Medium,18-60,September-December,Both,Shankarpur Fishing Harbor
+West Bengal,Digha,East,Temple,Low,60-100,January-April,Both,Chandaneswar Temple
+West Bengal,Murshidabad,East,Historical,Medium,18-60,September-December,Both,Hazarduari Palace
+West Bengal,Murshidabad,East,Religious,Medium,60-100,January-April,Both,Katra Mosque
+West Bengal,Murshidabad,East,Museum,Low,18-60,May-August,Both,Nizamat Imambara
+West Bengal,Murshidabad,East,Fort,Medium,18-60,September-December,Both,Kathgola Palace
+West Bengal,Murshidabad,East,River,Low,18-60,January-April,Both,Bhagirathi River
+Tamil Nadu,Chennai,South,Beach,Low,18-60,January-April,Both,Marina Beach
+Tamil Nadu,Chennai,South,Religious,Medium,60-100,May-August,Both,Kapaleeshwarar Temple
+Tamil Nadu,Chennai,South,Museum,Low,18-60,September-December,Both,Government Museum
+Tamil Nadu,Chennai,South,Zoo,Low,Teenagers,May-August,Both,Arignar Anna Zoological Park
+Tamil Nadu,Chennai,South,Historical,Medium,18-60,January-April,Both,Fort St. George
+Tamil Nadu,Madurai,South,Religious,Medium,60-100,May-August,Both,Meenakshi Temple
+Tamil Nadu,Madurai,South,Historical,Medium,18-60,September-December,Both,Thirumalai Nayakkar Mahal
+Tamil Nadu,Madurai,South,Lake,Low,18-60,January-April,Both,Vagai Dam
+Tamil Nadu,Madurai,South,Festival,Medium,18-60,January-April,Both,Chithirai Festival
+Tamil Nadu,Madurai,South,Food,Low,18-60,May-August,Both,Madurai Jigarthanda
+Tamil Nadu,Coimbatore,South,Nature,Medium,18-60,September-December,Both,Valparai
+Tamil Nadu,Coimbatore,South,Religious,Medium,60-100,May-August,Both,Marudhamalai Temple
+Tamil Nadu,Coimbatore,South,Zoo,Low,Teenagers,May-August,Both,VOC Park and Zoo
+Tamil Nadu,Coimbatore,South,Shopping,Low,18-60,January-April,Both,Brookefields Mall
+Tamil Nadu,Coimbatore,South,Monument,Medium,18-60,January-April,Both,Dhyanalinga Temple
+Tamil Nadu,Ooty,South,Hill Station,Medium,18-60,September-December,Both,Ooty Lake
+Tamil Nadu,Ooty,South,Garden,Low,18-60,January-April,Both,Government Botanical Gardens
+Tamil Nadu,Ooty,South,Wildlife,Medium,18-60,May-August,Both,Mudumalai National Park
+Tamil Nadu,Ooty,South,Lake,Low,18-60,January-April,Both,Pykara Lake
+Tamil Nadu,Ooty,South,Toy Train,Medium,18-60,September-December,Both,Nilgiri Mountain Railway
+Tamil Nadu,Kanyakumari,South,Monument,Medium,18-60,January-April,Both,Vivekananda Rock Memorial
+Tamil Nadu,Kanyakumari,South,Beach,Low,18-60,May-August,Both,Kanyakumari Beach
+Tamil Nadu,Kanyakumari,South,Religious,Medium,60-100,September-December,Both,Kumari Amman Temple
+Tamil Nadu,Kanyakumari,South,Museum,Low,18-60,January-April,Both,Gandhi Memorial
+Tamil Nadu,Kanyakumari,South,Nature,Medium,18-60,May-August,Both,Thirparappu Waterfalls
+Chhattisgarh,Raipur,Central,Zoo,Low,Teenagers,May-August,Both,Nandan Van Jungle Safari
+Chhattisgarh,Raipur,Central,Lake,Low,18-60,January-April,Both,Vivekananda Sarovar
+Chhattisgarh,Raipur,Central,Historical,Medium,18-60,September-December,Both,Mahant Ghasidas Museum
+Chhattisgarh,Raipur,Central,Religious,Medium,60-100,May-August,Both,Dudhadhari Math
+Chhattisgarh,Raipur,Central,Park,Low,18-60,January-April,Both,Energy Park
+Chhattisgarh,Bilaspur,Central,Nature,Medium,18-60,September-December,Both,Achanakmar Wildlife Sanctuary
+Chhattisgarh,Bilaspur,Central,Historical,Medium,18-60,January-April,Both,Ratanpur Fort
+Chhattisgarh,Bilaspur,Central,Religious,Medium,60-100,May-August,Both,Mahamaya Temple
+Chhattisgarh,Bilaspur,Central,Lake,Low,18-60,January-April,Both,Khutaghat Dam
+Chhattisgarh,Bilaspur,Central,Shopping,Low,18-60,May-August,Both,Bilaspur Market
+Chhattisgarh,Jagdalpur,Central,Waterfall,Medium,18-60,September-December,Both,Chitrakote Falls
+Chhattisgarh,Jagdalpur,Central,Caves,Medium,18-60,January-April,Both,Kailash and Kotumsar Caves
+Chhattisgarh,Jagdalpur,Central,National Park,Medium,18-60,May-August,Both,Kanger Valley National Park
+Chhattisgarh,Jagdalpur,Central,Religious,Medium,60-100,January-April,Both,Danteshwari Temple
+Chhattisgarh,Jagdalpur,Central,Lake,Low,18-60,September-December,Both,Dalpat Sagar Lake
+Chhattisgarh,Durg,Central,Fort,Medium,18-60,January-April,Both,Durg Fort
+Chhattisgarh,Durg,Central,Religious,Medium,60-100,May-August,Both,Maitri Bagh Zoo & Temple
+Chhattisgarh,Durg,Central,Historical,Medium,18-60,September-December,Both,Bhoramdeo Temple
+Chhattisgarh,Durg,Central,Food,Low,18-60,January-April,Both,Durg Street Food Market
+Chhattisgarh,Durg,Central,Park,Low,18-60,May-August,Both,Maitri Bagh Garden
+Chhattisgarh,Ambikapur,Central,Waterfall,Medium,18-60,September-December,Both,Tiger Point Waterfall
+Chhattisgarh,Ambikapur,Central,Nature,Medium,18-60,January-April,Both,Semarsot Wildlife Sanctuary
+Chhattisgarh,Ambikapur,Central,Caves,Medium,18-60,May-August,Both,Jogimara Caves
+Chhattisgarh,Ambikapur,Central,Religious,Medium,60-100,January-April,Both,Maheshpur Hanuman Temple
+Chhattisgarh,Ambikapur,Central,Park,Low,18-60,September-December,Both,Mahamaya Park
+Kerala,Kochi,South,Beach,Medium,18-60,September-December,Both,Cherai Beach
+Kerala,Kochi,South,Historical,Medium,18-60,January-April,Both,Fort Kochi
+Kerala,Kochi,South,Museum,Low,18-60,September-December,Both,Kerala Folklore Museum
+Kerala,Kochi,South,Shopping,Low,18-60,May-August,Both,Lulu Mall
+Kerala,Kochi,South,Religious,Medium,60-100,January-April,Both,Paradesi Synagogue
+Kerala,Munnar,South,Hill Station,Medium,18-60,September-December,Both,Tea Gardens
+Kerala,Munnar,South,Nature,Medium,18-60,January-April,Both,Eravikulam National Park
+Kerala,Munnar,South,Waterfalls,Low,18-60,May-August,Both,Attukal Waterfalls
+Kerala,Munnar,South,Lake,Medium,18-60,September-December,Both,Mattupetty Dam
+Kerala,Munnar,South,Adventure,Medium,18-60,January-April,Both,Top Station Trek
+Kerala,Alleppey,South,Backwaters,Medium,18-60,September-December,Both,Alleppey Houseboats
+Kerala,Alleppey,South,Beach,Low,18-60,January-April,Both,Alleppey Beach
+Kerala,Alleppey,South,Nature,Medium,18-60,May-August,Both,Marari Beach
+Kerala,Alleppey,South,Religious,Medium,60-100,September-December,Both,Ambalapuzha Temple
+Kerala,Alleppey,South,Festival,Medium,18-60,January-April,Both,Nehru Trophy Boat Race
+Kerala,Wayanad,South,Nature,Medium,18-60,September-December,Both,Banasura Sagar Dam
+Kerala,Wayanad,South,Wildlife,Medium,18-60,January-April,Both,Wayanad Wildlife Sanctuary
+Kerala,Wayanad,South,Caves,Medium,18-60,May-August,Both,Edakkal Caves
+Kerala,Wayanad,South,Adventure,Medium,18-60,September-December,Both,Chembra Peak Trek
+Kerala,Wayanad,South,Waterfalls,Low,18-60,January-April,Both,Soochipara Falls
+Kerala,Kovalam,South,Beach,Medium,18-60,September-December,Both,Kovalam Beach
+Kerala,Kovalam,South,Adventure,Medium,18-60,January-April,Both,Surfing at Lighthouse Beach
+Kerala,Kovalam,South,Wellness,Medium,18-60,May-August,Both,Ayurvedic Spas
+Kerala,Kovalam,South,Religious,Medium,60-100,September-December,Both,Vizhinjam Rock Cut Temple
+Kerala,Kovalam,South,Nature,Low,18-60,January-April,Both,Vellayani Lake
+Odisha,Bhubaneswar,East,Religious,Medium,18-60,September-December,Both,Lingaraj Temple
+Odisha,Bhubaneswar,East,Zoo,Low,Teenagers,January-April,Both,Nandankanan Zoological Park
+Odisha,Bhubaneswar,East,Museum,Low,18-60,September-December,Both,Odisha State Museum
+Odisha,Bhubaneswar,East,Caves,Medium,18-60,May-August,Both,Udayagiri and Khandagiri Caves
+Odisha,Bhubaneswar,East,Lake,Low,18-60,January-April,Both,Bindu Sagar Lake
+Odisha,Puri,East,Religious,Medium,60-100,May-August,Both,Jagannath Temple
+Odisha,Puri,East,Beach,Low,18-60,January-April,Both,Puri Beach
+Odisha,Puri,East,Festival,Medium,18-60,July,Both,Rath Yatra
+Odisha,Puri,East,Lake,Medium,18-60,September-December,Both,Chilika Lake
+Odisha,Puri,East,Craft Village,Low,18-60,January-April,Both,Raghurajpur Village
+Odisha,Konark,East,Monument,Medium,18-60,September-December,Both,Sun Temple
+Odisha,Konark,East,Beach,Low,18-60,January-April,Both,Chandrabhaga Beach
+Odisha,Konark,East,Museum,Medium,18-60,September-December,Both,Konark Museum
+Odisha,Konark,East,Festival,Medium,18-60,December,Both,Konark Dance Festival
+Odisha,Konark,East,Nature,Low,18-60,May-August,Both,Balukhand Wildlife Sanctuary
+Odisha,Cuttack,East,Historical,Medium,18-60,September-December,Both,Barabati Fort
+Odisha,Cuttack,East,Religious,Medium,60-100,May-August,Both,Chandi Temple
+Odisha,Cuttack,East,Festival,Medium,18-60,October,Both,Bali Yatra
+Odisha,Cuttack,East,Zoo,Low,Teenagers,January-April,Both,Deer Park
+Odisha,Cuttack,East,Shopping,Low,18-60,May-August,Both,Silver Filigree Market
+Odisha,Sambalpur,East,Waterfall,Medium,18-60,September-December,Both,Hirakud Dam
+Odisha,Sambalpur,East,Religious,Medium,60-100,May-August,Both,Samaleswari Temple
+Odisha,Sambalpur,East,Wildlife,Medium,18-60,January-April,Both,Debrigarh Wildlife Sanctuary
+Odisha,Sambalpur,East,Lake,Low,18-60,September-December,Both,Gudguda Waterfall
+Odisha,Sambalpur,East,Culture,Medium,18-60,May-August,Both,Panchgani Handloom Village
+Uttarakhand,Dehradun,North,Religious,Medium,18-60,September-December,Both,Tapkeshwar Temple
+Uttarakhand,Dehradun,North,Nature,Low,18-60,January-April,Both,Robber's Cave
+Uttarakhand,Dehradun,North,Museum,Low,18-60,May-August,Both,Forest Research Institute
+Uttarakhand,Dehradun,North,Waterfall,Low,18-60,September-December,Both,Shikhar Fall
+Uttarakhand,Dehradun,North,Adventure,Medium,18-60,January-April,Both,Maldevta
+Uttarakhand,Mussoorie,North,Hill Station,Medium,18-60,September-December,Both,Gun Hill
+Uttarakhand,Mussoorie,North,Waterfall,Low,18-60,January-April,Both,Kempty Falls
+Uttarakhand,Mussoorie,North,Lake,Low,18-60,May-August,Both,Mussoorie Lake
+Uttarakhand,Mussoorie,North,Nature,Medium,18-60,September-December,Both,Camel’s Back Road
+Uttarakhand,Mussoorie,North,Historical,Medium,18-60,January-April,Both,Lal Tibba
+Uttarakhand,Rishikesh,North,Religious,Medium,60-100,May-August,Both,Triveni Ghat
+Uttarakhand,Rishikesh,North,Adventure,High,18-60,September-December,Both,River Rafting
+Uttarakhand,Rishikesh,North,Bridge,Low,18-60,January-April,Both,Laxman Jhula
+Uttarakhand,Rishikesh,North,Ashram,Medium,18-60,May-August,Both,Parmarth Niketan
+Uttarakhand,Rishikesh,North,Waterfall,Low,18-60,September-December,Both,Neer Garh Waterfall
+Uttarakhand,Haridwar,North,Religious,Medium,60-100,May-August,Both,Har Ki Pauri
+Uttarakhand,Haridwar,North,Temple,Medium,18-60,September-December,Both,Mansa Devi Temple
+Uttarakhand,Haridwar,North,Festival,Medium,18-60,January-April,Both,Kumbh Mela (once every 12 years)
+Uttarakhand,Haridwar,North,Ashram,Medium,18-60,May-August,Both,Shantikunj Ashram
+Uttarakhand,Haridwar,North,Zoo,Low,Teenagers,September-December,Both,Rajaji National Park
+Uttarakhand,Nainital,North,Lake,Medium,18-60,January-April,Both,Naini Lake
+Uttarakhand,Nainital,North,Hill Station,Medium,18-60,September-December,Both,Snow View Point
+Uttarakhand,Nainital,North,Zoo,Low,Teenagers,May-August,Both,Nainital Zoo
+Uttarakhand,Nainital,North,Religious,Medium,60-100,January-April,Both,Naina Devi Temple
+Uttarakhand,Nainital,North,Nature,Medium,18-60,September-December,Both,Tiffin Top
+Bihar,Patna,East,Religious,Medium,18-60,September-December,Both,Mahavir Mandir
+Bihar,Patna,East,Historical,Medium,18-60,January-April,Both,Golghar
+Bihar,Patna,East,Museum,Low,18-60,May-August,Both,Bihar Museum
+Bihar,Patna,East,Zoo,Low,Teenagers,September-December,Both,Sanjay Gandhi Biological Park
+Bihar,Patna,East,Monument,Medium,18-60,January-April,Both,Patna Sahib Gurudwara
+Bihar,Gaya,East,Religious,Medium,60-100,May-August,Both,Mahabodhi Temple
+Bihar,Gaya,East,Monument,Medium,18-60,September-December,Both,Vishnupad Temple
+Bihar,Gaya,East,Lake,Low,18-60,January-April,Both,Falgu River
+Bihar,Gaya,East,Cave,Medium,18-60,May-August,Both,Barabar Caves
+Bihar,Gaya,East,Nature,Medium,18-60,September-December,Both,Dungeshwari Hills
+Bihar,Nalanda,East,Historical,Medium,18-60,January-April,Both,Nalanda University Ruins
+Bihar,Nalanda,East,Religious,Medium,60-100,May-August,Both,Black Buddha Temple
+Bihar,Nalanda,East,Museum,Low,18-60,September-December,Both,Nalanda Archaeological Museum
+Bihar,Nalanda,East,Monument,Medium,18-60,January-April,Both,Xuan Zang Memorial Hall
+Bihar,Nalanda,East,Cave,Medium,18-60,May-August,Both,Rajgir Caves
+Bihar,Rajgir,East,Historical,Medium,18-60,September-December,Both,Ajatshatru Fort
+Bihar,Rajgir,East,Monument,Medium,18-60,January-April,Both,Vishwa Shanti Stupa
+Bihar,Rajgir,East,Nature,Medium,18-60,May-August,Both,Hot Springs
+Bihar,Rajgir,East,Cave,Medium,18-60,September-December,Both,Saptaparni Cave
+Bihar,Rajgir,East,Religious,Medium,60-100,January-April,Both,Veerayatan Museum
+Bihar,Vaishali,East,Historical,Medium,18-60,September-December,Both,Ashoka Pillar
+Bihar,Vaishali,East,Religious,Medium,60-100,January-April,Both,Bawan Pokhar Temple
+Bihar,Vaishali,East,Monument,Medium,18-60,May-August,Both,Ananda Stupa
+Bihar,Vaishali,East,Nature,Low,18-60,September-December,Both,Abhishek Pushkarini
+Bihar,Vaishali,East,Museum,Low,18-60,January-April,Both,Vaishali Museum
+Assam,Guwahati,Northeast,Religious,Medium,18-60,September-December,Both,Kamakhya Temple
+Assam,Guwahati,Northeast,Zoo,Low,Teenagers,January-April,Both,Assam State Zoo
+Assam,Guwahati,Northeast,River,Low,18-60,May-August,Both,Brahmaputra River Cruise
+Assam,Guwahati,Northeast,Historical,Medium,18-60,September-December,Both,Saraighat Bridge
+Assam,Guwahati,Northeast,Museum,Low,18-60,January-April,Both,Assam State Museum
+Assam,Kaziranga,Northeast,National Park,Medium,18-60,November-April,Both,Kaziranga National Park
+Assam,Kaziranga,Northeast,Wildlife,Medium,18-60,November-April,Both,Kaziranga Elephant Safari
+Assam,Kaziranga,Northeast,Eco-Tourism,Low,18-60,May-August,Both,Kaziranga Orchid and Biodiversity Park
+Assam,Kaziranga,Northeast,Cultural,Medium,18-60,January-April,Both,Rang Ghar (near Kaziranga)
+Assam,Jorhat,Northeast,Tea Estates,Medium,18-60,September-December,Both,Tocklai Tea Research Institute
+Assam,Jorhat,Northeast,Island,Medium,18-60,January-April,Both,Majuli Island
+Assam,Jorhat,Northeast,Religious,Medium,60-100,May-August,Both,Shri Shri Auniati Satra
+Assam,Jorhat,Northeast,Historical,Medium,18-60,September-December,Both,Gibbon Wildlife Sanctuary
+Assam,Tezpur,Northeast,Historical,Medium,18-60,January-April,Both,Agnigarh Hill
+Assam,Tezpur,Northeast,River,Medium,18-60,May-August,Both,Bhairabi Temple
+Assam,Tezpur,Northeast,Nature,Medium,18-60,September-December,Both,Nameri National Park
+Assam,Dibrugarh,Northeast,Tea Estates,Medium,18-60,January-April,Both,Dibru-Saikhowa National Park
+Assam,Dibrugarh,Northeast,Wildlife,Medium,18-60,September-December,Both,Dehing Patkai Wildlife Sanctuary
+Assam,Dibrugarh,Northeast,Historical,Medium,18-60,January-April,Both,Raidongia Dol
+Assam,Silchar,Northeast,Religious,Medium,60-100,May-August,Both,Kachakanti Temple
+Assam,Silchar,Northeast,Nature,Medium,18-60,January-April,Both,Maniharan Tunnel
+Arunachal Pradesh,Tawang,Northeast,Monastery,Medium,18-60,September-December,Both,Tawang Monastery
+Arunachal Pradesh,Tawang,Northeast,Lake,Low,18-60,January-April,Both,Madhuri Lake
+Arunachal Pradesh,Tawang,Northeast,Historical,Medium,18-60,September-December,Both,Tawang War Memorial
+Arunachal Pradesh,Tawang,Northeast,Nature,Low,18-60,May-August,Both,Nuranang Falls
+Arunachal Pradesh,Tawang,Northeast,Pass,Medium,18-60,January-April,Both,Sela Pass
+Arunachal Pradesh,Itanagar,Northeast,Religious,Medium,60-100,May-August,Both,Buddha Temple
+Arunachal Pradesh,Itanagar,Northeast,Historical,Medium,18-60,September-December,Both,Ita Fort
+Arunachal Pradesh,Itanagar,Northeast,Zoo,Low,Teenagers,January-April,Both,Itanagar Zoological Park
+Arunachal Pradesh,Itanagar,Northeast,Museum,Medium,18-60,September-December,Both,Jawaharlal Nehru State Museum
+Arunachal Pradesh,Itanagar,Northeast,Park,Low,18-60,May-August,Both,Indira Gandhi Park
+Arunachal Pradesh,Ziro,Northeast,Nature,Medium,18-60,September-December,Both,Ziro Valley
+Arunachal Pradesh,Ziro,Northeast,Festival,Medium,18-60,January-April,Both,Ziro Music Festival
+Arunachal Pradesh,Ziro,Northeast,Lake,Low,18-60,May-August,Both,Tarin Fish Farm
+Arunachal Pradesh,Ziro,Northeast,Religious,Medium,60-100,September-December,Both,Meghna Cave Temple
+Arunachal Pradesh,Ziro,Northeast,Wildlife,Medium,18-60,January-April,Both,Talley Valley Wildlife Sanctuary
+Arunachal Pradesh,Bomdila,Northeast,Monastery,Medium,18-60,September-December,Both,Bomdila Monastery
+Arunachal Pradesh,Bomdila,Northeast,Museum,Medium,18-60,January-April,Both,Craft Centre and Ethnographic Museum
+Arunachal Pradesh,Bomdila,Northeast,Nature,Low,18-60,May-August,Both,Bomdila View Point
+Arunachal Pradesh,Bomdila,Northeast,Pass,Medium,18-60,September-December,Both,Dirang Valley
+Arunachal Pradesh,Bomdila,Northeast,Wildlife,Medium,18-60,January-April,Both,Eaglenest Wildlife Sanctuary
+Arunachal Pradesh,Pasighat,Northeast,Nature,Medium,18-60,September-December,Both,Siang River
+Arunachal Pradesh,Pasighat,Northeast,Wildlife,Medium,18-60,January-April,Both,Daying Ering Wildlife Sanctuary
+Arunachal Pradesh,Pasighat,Northeast,Adventure,Medium,18-60,May-August,Both,River Rafting in Siang
+Arunachal Pradesh,Pasighat,Northeast,Religious,Medium,60-100,September-December,Both,Kekar Monying
+Arunachal Pradesh,Pasighat,Northeast,Festival,Medium,18-60,January-April,Both,Solung Festival
+Himachal Pradesh,Shimla,North,Hill Station,Medium,18-60,March-June,Both,The Ridge
+Himachal Pradesh,Shimla,North,Historical,Medium,18-60,September-December,Both,Viceregal Lodge
+Himachal Pradesh,Shimla,North,Nature,Medium,18-60,January-April,Both,Kufri
+Himachal Pradesh,Shimla,North,Religious,Low,60-100,May-August,Both,Jakhoo Temple
+Himachal Pradesh,Shimla,North,Shopping,Low,18-60,January-April,Both,Mall Road
+Himachal Pradesh,Manali,North,Hill Station,Medium,18-60,March-June,Both,Solang Valley
+Himachal Pradesh,Manali,North,Adventure,Medium,18-60,January-April,Both,Rohtang Pass
+Himachal Pradesh,Manali,North,Religious,Low,60-100,May-August,Both,Hidimba Devi Temple
+Himachal Pradesh,Manali,North,Nature,Medium,18-60,September-December,Both,Jogini Waterfall
+Himachal Pradesh,Manali,North,Historical,Medium,18-60,January-April,Both,Naggar Castle
+Himachal Pradesh,Dharamshala,North,Religious,Medium,18-60,March-June,Both,Dalai Lama Temple
+Himachal Pradesh,Dharamshala,North,Lake,Low,18-60,September-December,Both,Dal Lake
+Himachal Pradesh,Dharamshala,North,Monastery,Medium,18-60,January-April,Both,Namgyal Monastery
+Himachal Pradesh,Dharamshala,North,Nature,Medium,18-60,May-August,Both,Triund Trek
+Himachal Pradesh,Dharamshala,North,Museum,Low,18-60,January-April,Both,War Memorial
+Himachal Pradesh,Dalhousie,North,Hill Station,Medium,18-60,March-June,Both,Khajjiar
+Himachal Pradesh,Dalhousie,North,Nature,Medium,18-60,January-April,Both,Panchpula
+Himachal Pradesh,Dalhousie,North,Religious,Low,60-100,May-August,Both,St. John's Church
+Himachal Pradesh,Dalhousie,North,Adventure,Medium,18-60,September-December,Both,Dainkund Peak
+Himachal Pradesh,Dalhousie,North,Historical,Medium,18-60,January-April,Both,Subhash Baoli
+Himachal Pradesh,Kullu,North,Nature,Medium,18-60,March-June,Both,Great Himalayan National Park
+Himachal Pradesh,Kullu,North,Adventure,Medium,18-60,September-December,Both,Bijli Mahadev Trek
+Himachal Pradesh,Kullu,North,Religious,Low,60-100,May-August,Both,Raghunath Temple
+Himachal Pradesh,Kullu,North,Festival,Medium,18-60,January-April,Both,Kullu Dussehra
+Himachal Pradesh,Kullu,North,River,Medium,18-60,March-June,Both,Beas River Rafting
+Meghalaya,Shillong,Northeast,Lake,Low,18-60,January-April,Both,Umiam Lake
+Meghalaya,Shillong,Northeast,Waterfall,Medium,18-60,September-December,Both,Elephant Falls
+Meghalaya,Shillong,Northeast,Park,Low,Teenagers,May-August,Both,Lady Hydari Park
+Meghalaya,Shillong,Northeast,Cave,Medium,18-60,January-April,Both,Mawsmai Cave
+Meghalaya,Shillong,Northeast,Peak,Medium,18-60,September-December,Both,Shillong Peak
+Meghalaya,Cherrapunji,Northeast,Waterfall,Medium,18-60,September-December,Both,Nohkalikai Falls
+Meghalaya,Cherrapunji,Northeast,Cave,Medium,18-60,January-April,Both,Arwah Cave
+Meghalaya,Cherrapunji,Northeast,Bridge,Medium,18-60,May-August,Both,Double Decker Living Root Bridge
+Meghalaya,Cherrapunji,Northeast,Valley,Medium,18-60,September-December,Both,Seven Sisters Falls
+Meghalaya,Cherrapunji,Northeast,Forest,Medium,18-60,January-April,Both,Eco Park
+Meghalaya,Mawsynram,Northeast,Nature,Medium,18-60,May-August,Both,Mawsynram Village
+Meghalaya,Mawsynram,Northeast,Cave,Medium,18-60,January-April,Both,Mawjymbuin Cave
+Meghalaya,Mawsynram,Northeast,Rainfall,Medium,18-60,September-December,Both,Mawsynram Rainforest
+Meghalaya,Mawsynram,Northeast,Hiking,Medium,18-60,January-April,Both,David Scott Trail
+Meghalaya,Mawsynram,Northeast,Cultural,Medium,18-60,May-August,Both,Local Khasi Villages
+Meghalaya,Dawki,Northeast,River,Medium,18-60,September-December,Both,Umngot River
+Meghalaya,Dawki,Northeast,Border,Low,18-60,January-April,Both,India-Bangladesh Border
+Meghalaya,Dawki,Northeast,Boating,Medium,18-60,May-August,Both,Dawki Boating Point
+Meghalaya,Dawki,Northeast,Fishing,Medium,18-60,September-December,Both,Shnongpdeng Village
+Meghalaya,Dawki,Northeast,Camping,Medium,18-60,January-April,Both,Dawki Riverside Camping
+Meghalaya,Jowai,Northeast,Lake,Low,18-60,January-April,Both,Krang Suri Waterfall
+Meghalaya,Jowai,Northeast,Cultural,Medium,18-60,September-December,Both,Nartiang Monoliths
+Meghalaya,Jowai,Northeast,Waterfall,Medium,18-60,May-August,Both,Thadlaskein Lake
+Meghalaya,Jowai,Northeast,Historical,Medium,18-60,September-December,Both,Lalong Park
+Meghalaya,Jowai,Northeast,Nature,Medium,18-60,January-April,Both,Tyrshi Falls
+Sikkim,Gangtok,North-East,Monastery,Medium,18-60,September-December,Both,Rumtek Monastery
+Sikkim,Gangtok,North-East,Lake,Low,18-60,January-April,Both,Tsomgo Lake
+Sikkim,Gangtok,North-East,Nature,Medium,18-60,May-August,Both,Nathula Pass
+Sikkim,Gangtok,North-East,Zoo,Low,Teenagers,September-December,Both,Himalayan Zoological Park
+Sikkim,Gangtok,North-East,Historical,Medium,18-60,January-April,Both,Namgyal Institute of Tibetology
+Sikkim,Pelling,North-East,Monastery,Medium,18-60,September-December,Both,Pemayangtse Monastery
+Sikkim,Pelling,North-East,Waterfall,Low,18-60,May-August,Both,Kanchenjunga Falls
+Sikkim,Pelling,North-East,Monument,Medium,18-60,January-April,Both,Rabdentse Ruins
+Sikkim,Pelling,North-East,Nature,Medium,18-60,September-December,Both,Singshore Bridge
+Sikkim,Pelling,North-East,Lake,Low,18-60,January-April,Both,Khecheopalri Lake
+Sikkim,Lachung,North-East,Nature,Medium,18-60,May-August,Both,Yumthang Valley
+Sikkim,Lachung,North-East,Religious,Medium,60-100,September-December,Both,Lachung Monastery
+Sikkim,Lachung,North-East,Waterfall,Low,18-60,January-April,Both,Seven Sisters Waterfall
+Sikkim,Lachung,North-East,Nature,Medium,18-60,May-August,Both,Zero Point
+Sikkim,Lachung,North-East,Lake,Low,18-60,January-April,Both,Green Lake
+Sikkim,Namchi,North-East,Religious,Medium,60-100,September-December,Both,Char Dham
+Sikkim,Namchi,North-East,Monastery,Medium,18-60,January-April,Both,Samdruptse Monastery
+Sikkim,Namchi,North-East,Statue,Medium,18-60,May-August,Both,Guru Padmasambhava Statue
+Sikkim,Namchi,North-East,Garden,Low,18-60,January-April,Both,Temi Tea Garden
+Sikkim,Namchi,North-East,Festival,Medium,18-60,September-December,Both,Namchi Mahotsav
+Haryana,Gurgaon,North,Entertainment,Medium,18-60,January-April,Both,Kingdom of Dreams
+Haryana,Gurgaon,North,Lake,Low,18-60,September-December,Both,Damdama Lake
+Haryana,Gurgaon,North,Historical,Medium,18-60,January-April,Both,Sheetla Mata Mandir
+Haryana,Gurgaon,North,Shopping,Medium,18-60,May-August,Both,Ambience Mall
+Haryana,Gurgaon,North,Adventure,Medium,18-60,September-December,Both,Leisure Valley Park
+Haryana,Faridabad,North,Festival,Medium,18-60,January-April,Both,Surajkund Mela
+Haryana,Faridabad,North,Religious,Medium,60-100,May-August,Both,Shri Maharani Vaishno Devi Mandir
+Haryana,Faridabad,North,Lake,Low,18-60,September-December,Both,Badkhal Lake
+Haryana,Faridabad,North,Historical,Medium,18-60,January-April,Both,Raja Nahar Singh Palace
+Haryana,Faridabad,North,Shopping,Low,18-60,May-August,Both,Crown Interiorz Mall
+Haryana,Karnal,North,Historical,Medium,18-60,September-December,Both,Karnal Fort
+Haryana,Karnal,North,Religious,Medium,60-100,May-August,Both,Kalander Shah's Tomb
+Haryana,Karnal,North,Food,Low,18-60,January-April,Both,Karnal Haveli
+Haryana,Karnal,North,Nature,Medium,18-60,September-December,Both,Cantonment Church Tower
+Haryana,Karnal,North,Adventure,Medium,18-60,January-April,Both,Karan Lake
+Haryana,Kurukshetra,North,Religious,Medium,60-100,May-August,Both,Brahma Sarovar
+Haryana,Kurukshetra,North,Historical,Medium,18-60,September-December,Both,Sheikh Chilli's Tomb
+Haryana,Kurukshetra,North,Monument,Medium,18-60,January-April,Both,Sthaneshwar Mahadev Temple
+Haryana,Kurukshetra,North,Museum,Low,18-60,May-August,Both,Kurukshetra Panorama & Science Centre
+Haryana,Kurukshetra,North,Festival,Medium,18-60,January-April,Both,Gita Mahotsav
+Haryana,Panchkula,North,Nature,Medium,18-60,January-April,Both,Morni Hills
+Haryana,Panchkula,North,Religious,Medium,60-100,May-August,Both,Mata Mansa Devi Temple
+Haryana,Panchkula,North,Adventure,Medium,18-60,September-December,Both,Pinjore Gardens
+Haryana,Panchkula,North,Historical,Medium,18-60,January-April,Both,Nada Sahib Gurudwara
+Haryana,Panchkula,North,Wildlife,Medium,18-60,September-December,Both,Khol Hi-Raitan Wildlife Sanctuary
+Andhra Pradesh,Visakhapatnam,South,Beach,Medium,18-60,September-December,Both,Ramakrishna Beach
+Andhra Pradesh,Visakhapatnam,South,Hill Station,Medium,18-60,January-April,Both,Araku Valley
+Andhra Pradesh,Visakhapatnam,South,Museum,Low,18-60,September-December,Both,INS Kurusura Submarine Museum
+Andhra Pradesh,Visakhapatnam,South,Religious,Low,60-100,May-August,Both,Simhachalam Temple
+Andhra Pradesh,Visakhapatnam,South,Nature,Medium,18-60,January-April,Both,Kailasagiri
+Andhra Pradesh,Tirupati,South,Religious,Medium,60-100,January-April,Both,Tirumala Temple
+Andhra Pradesh,Tirupati,South,Waterfall,Medium,18-60,September-December,Both,Talakona Waterfalls
+Andhra Pradesh,Tirupati,South,Zoo,Low,Teenagers,May-August,Both,Sri Venkateswara Zoological Park
+Andhra Pradesh,Tirupati,South,Historical,Medium,18-60,January-April,Both,Chandragiri Fort
+Andhra Pradesh,Tirupati,South,Lake,Low,18-60,September-December,Both,Kapila Theertham
+Andhra Pradesh,Amaravati,South,Historical,Medium,18-60,January-April,Both,Amaravati Stupa
+Andhra Pradesh,Amaravati,South,Religious,Medium,60-100,May-August,Both,Amaralingeswara Temple
+Andhra Pradesh,Amaravati,South,Museum,Low,18-60,September-December,Both,Archaeological Museum
+Andhra Pradesh,Amaravati,South,Monument,Medium,18-60,January-April,Both,Dhyana Buddha Statue
+Andhra Pradesh,Amaravati,South,Festival,Medium,18-60,May-August,Both,Krishna Pushkaralu (every 12 years)
+Andhra Pradesh,Vijayawada,South,Religious,Medium,60-100,January-April,Both,Kanaka Durga Temple
+Andhra Pradesh,Vijayawada,South,Hill,Medium,18-60,September-December,Both,Indrakeeladri Hill
+Andhra Pradesh,Vijayawada,South,Historical,Medium,18-60,January-April,Both,Undavalli Caves
+Andhra Pradesh,Vijayawada,South,Nature,Low,18-60,May-August,Both,Bhavani Island
+Andhra Pradesh,Vijayawada,South,Monument,Medium,18-60,September-December,Both,Prakasam Barrage
+Andhra Pradesh,Srisailam,South,Religious,Medium,60-100,May-August,Both,Mallikarjuna Temple
+Andhra Pradesh,Srisailam,South,Wildlife,Medium,18-60,January-April,Both,Nallamala Forest
+Andhra Pradesh,Srisailam,South,Dam,Medium,18-60,September-December,Both,Srisailam Dam
+Andhra Pradesh,Srisailam,South,Nature,Low,18-60,January-April,Both,Ista Kameswari Temple
+Andhra Pradesh,Srisailam,South,Festival,Medium,18-60,May-August,Both,Maha Shivaratri Festival
+Delhi,New Delhi,North,Historical,Medium,18-60,September-December,Both,Red Fort
+Delhi,New Delhi,North,Monument,Medium,18-60,January-April,Both,India Gate
+Delhi,New Delhi,North,Religious,Low,All Ages,May-August,Both,Jama Masjid
+Delhi,New Delhi,North,Museum,Low,18-60,September-December,Both,National Museum
+Delhi,New Delhi,North,Park,Low,Teenagers,January-April,Both,Lodhi Garden
+Delhi,New Delhi,North,Shopping,Low,18-60,May-August,Both,Chandni Chowk
+Delhi,New Delhi,North,Food,Low,18-60,January-April,Both,Paranthe Wali Gali
+Delhi,New Delhi,North,Nature,Medium,18-60,September-December,Both,Garden of Five Senses
+Delhi,New Delhi,North,Zoo,Low,Teenagers,May-August,Both,National Zoological Park
+Delhi,New Delhi,North,Temple,Medium,All Ages,January-April,Both,Akshardham Temple
+Delhi,New Delhi,North,Monument,Medium,18-60,September-December,Both,Qutub Minar
+Delhi,New Delhi,North,Memorial,Low,All Ages,January-April,Both,Raj Ghat
+Delhi,New Delhi,North,Religious,Medium,60-100,May-August,Both,Lotus Temple
+Delhi,New Delhi,North,Museum,Medium,18-60,September-December,Both,Gandhi Smriti
+Delhi,New Delhi,North,Palace,Medium,18-60,January-April,Both,Rashtrapati Bhavan
+Delhi,New Delhi,North,Historical,Medium,18-60,September-December,Both,Humayun's Tomb
+Delhi,New Delhi,North,Park,Low,Teenagers,May-August,Both,Nehru Park
+Delhi,New Delhi,North,Festival,Medium,18-60,January-April,Both,Delhi International Trade Fair
+Delhi,New Delhi,North,Science,Low,All Ages,May-August,Both,Nehru Planetarium
+Delhi,New Delhi,North,Shopping,Low,18-60,September-December,Both,Dilli Haat
+Jammu & Kashmir,Srinagar,North,Lake,Medium,18-60,April-September,Both,Dal Lake
+Jammu & Kashmir,Srinagar,North,Garden,Low,18-60,April-September,Both,Shalimar Bagh
+Jammu & Kashmir,Srinagar,North,Religious,Medium,18-60,September-December,Both,Shankaracharya Temple
+Jammu & Kashmir,Srinagar,North,Historical,Medium,18-60,January-April,Both,Pari Mahal
+Jammu & Kashmir,Srinagar,North,Shopping,Low,18-60,May-August,Both,Lal Chowk Market
+Jammu & Kashmir,Gulmarg,North,Adventure,High,18-60,December-March,Both,Gulmarg Ski Resort
+Jammu & Kashmir,Gulmarg,North,Cable Car,Medium,18-60,April-September,Both,Gulmarg Gondola
+Jammu & Kashmir,Gulmarg,North,Nature,Medium,18-60,May-August,Both,Alpather Lake
+Jammu & Kashmir,Gulmarg,North,Wildlife,Low,18-60,September-December,Both,Gulmarg Biosphere Reserve
+Jammu & Kashmir,Gulmarg,North,Photography,Medium,18-60,January-April,Both,Strawberry Valley
+Jammu & Kashmir,Pahalgam,North,Nature,Medium,18-60,April-September,Both,Betaab Valley
+Jammu & Kashmir,Pahalgam,North,Trekking,Medium,18-60,May-August,Both,Aru Valley
+Jammu & Kashmir,Pahalgam,North,Religious,Medium,18-60,June-August,Both,Amarnath Cave Temple
+Jammu & Kashmir,Pahalgam,North,Photography,Medium,18-60,January-April,Both,Lidder River
+Jammu & Kashmir,Pahalgam,North,Fishing,Low,18-60,May-October,Both,Sheshnag Lake
+Jammu & Kashmir,Leh,North,Monastery,Medium,18-60,May-September,Both,Thiksey Monastery
+Jammu & Kashmir,Leh,North,Lake,High,18-60,June-September,Both,Pangong Lake
+Jammu & Kashmir,Leh,North,Adventure,High,18-60,May-October,Both,Khardung La Pass
+Jammu & Kashmir,Leh,North,Nature,Medium,18-60,May-September,Both,Magnetic Hill
+Jammu & Kashmir,Leh,North,Wildlife,Medium,18-60,October-February,Both,Hemis National Park
+Jammu & Kashmir,Jammu,North,Religious,Medium,60-100,January-April,Both,Vaishno Devi Temple
+Jammu & Kashmir,Jammu,North,Historical,Medium,18-60,May-August,Both,Mubarak Mandi Palace
+Jammu & Kashmir,Jammu,North,Museum,Low,18-60,January-April,Both,Dogra Art Museum
+Jammu & Kashmir,Jammu,North,Lake,Low,18-60,September-December,Both,Mansar Lake
+Jammu & Kashmir,Jammu,North,Shopping,Low,18-60,May-August,Both,Raghunath Bazaar
+Ladakh,Leh,North,Monastery,Medium,18-60,May-September,Both,Hemis Monastery
+Ladakh,Leh,North,Lake,Medium,18-60,May-September,Both,Pangong Lake
+Ladakh,Leh,North,Adventure,High,18-40,June-October,Both,Khardung La Pass
+Ladakh,Leh,North,Historical,Medium,18-60,May-September,Both,Leh Palace
+Ladakh,Leh,North,Nature,Medium,18-60,May-September,Both,Magnetic Hill
+Ladakh,Kargil,North,War Memorial,Medium,18-60,May-September,Both,Kargil War Memorial
+Ladakh,Kargil,North,Religious,Medium,18-60,May-September,Both,Mulbekh Monastery
+Ladakh,Kargil,North,Historical,Medium,18-60,May-September,Both,Dras War Memorial
+Ladakh,Kargil,North,Adventure,High,18-40,June-September,Both,Suru Valley Trek
+Ladakh,Kargil,North,Food,Low,18-60,May-September,Both,Poyen Village Traditional Cuisine
+Ladakh,Nubra Valley,North,Desert,Medium,18-60,May-September,Both,Hunder Sand Dunes
+Ladakh,Nubra Valley,North,Monastery,Medium,18-60,May-September,Both,Diskit Monastery
+Ladakh,Nubra Valley,North,Adventure,High,18-40,June-September,Both,ATV Ride in Hunder
+Ladakh,Nubra Valley,North,Festival,Medium,18-60,July-August,Both,Diskit Gustor Festival
+Ladakh,Nubra Valley,North,Lake,Medium,18-60,May-September,Both,Yarab Tso Lake
+Ladakh,Zanskar Valley,North,Trekking,High,18-40,June-October,Both,Chadar Trek
+Ladakh,Zanskar Valley,North,Religious,Medium,18-60,May-September,Both,Sani Monastery
+Ladakh,Zanskar Valley,North,Nature,Medium,18-60,May-September,Both,Drang Drung Glacier
+Ladakh,Zanskar Valley,North,Adventure,High,18-40,June-September,Both,Rafting on Zanskar River
+Ladakh,Zanskar Valley,North,Cultural,Medium,18-60,May-September,Both,Zanskar Festival
+Telangana,Hyderabad,South,Historical,Medium,18-60,September-December,Both,Charminar
+Telangana,Hyderabad,South,Lake,Low,18-60,January-April,Both,Hussain Sagar Lake
+Telangana,Hyderabad,South,Museum,Medium,18-60,September-December,Both,Salar Jung Museum
+Telangana,Hyderabad,South,Zoo,Low,Teenagers,May-August,Both,Nehru Zoological Park
+Telangana,Hyderabad,South,Fort,Medium,18-60,September-December,Both,Golconda Fort
+Telangana,Warangal,South,Historical,Medium,18-60,September-December,Both,Warangal Fort
+Telangana,Warangal,South,Religious,Medium,60-100,May-August,Both,Thousand Pillar Temple
+Telangana,Warangal,South,Nature,Medium,18-60,January-April,Both,Pakhal Lake
+Telangana,Warangal,South,Wildlife,Low,18-60,September-December,Both,Eturnagaram Wildlife Sanctuary
+Telangana,Warangal,South,Monument,Medium,18-60,January-April,Both,Bhadrakali Temple
+Telangana,Nizamabad,South,Historical,Medium,18-60,September-December,Both,Nizamabad Fort
+Telangana,Nizamabad,South,Religious,Medium,60-100,May-August,Both,Sarangpur Hanuman Temple
+Telangana,Nizamabad,South,Nature,Medium,18-60,January-April,Both,Ali Sagar Reservoir
+Telangana,Nizamabad,South,Wildlife,Low,18-60,September-December,Both,Pocharam Wildlife Sanctuary
+Telangana,Nizamabad,South,Festival,Medium,18-60,January-April,Both,Bathukamma Festival
+Telangana,Khammam,South,Historical,Medium,18-60,September-December,Both,Khammam Fort
+Telangana,Khammam,South,Nature,Medium,18-60,January-April,Both,Kinnerasani Wildlife Sanctuary
+Telangana,Khammam,South,Religious,Medium,60-100,May-August,Both,Sri Lakshmi Narasimha Swamy Temple
+Telangana,Khammam,South,Waterfall,Medium,18-60,September-December,Both,Bogatha Waterfall
+Telangana,Khammam,South,Festival,Medium,18-60,January-April,Both,Sammakka Saralamma Jatara
+Telangana,Adilabad,South,Nature,Medium,18-60,September-December,Both,Kawal Wildlife Sanctuary
+Telangana,Adilabad,South,Waterfall,Medium,18-60,January-April,Both,Kuntala Waterfalls
+Telangana,Adilabad,South,Historical,Medium,18-60,May-August,Both,Basar Saraswathi Temple
+Telangana,Adilabad,South,Religious,Medium,60-100,September-December,Both,Gnana Saraswati Temple
+Telangana,Adilabad,South,Monument,Medium,18-60,January-April,Both,Jainath Temple
+Chandigarh,Chandigarh,North,Garden,Low,18-60,January-April,Both,Rock Garden
+Chandigarh,Chandigarh,North,Lake,Low,18-60,September-December,Both,Sukhna Lake
+Chandigarh,Chandigarh,North,Zoo,Medium,Teenagers,May-August,Both,Chhatbir Zoo
+Chandigarh,Chandigarh,North,Museum,Low,18-60,January-April,Both,Government Museum and Art Gallery
+Chandigarh,Chandigarh,North,Shopping,Medium,18-60,September-December,Both,Elante Mall
+Chandigarh,Chandigarh,North,Historical,Medium,18-60,January-April,Both,Le Corbusier Centre
+Chandigarh,Chandigarh,North,Religious,Low,60-100,May-August,Both,ISKCON Temple Chandigarh
+Chandigarh,Chandigarh,North,Nature,Low,18-60,September-December,Both,Pinjore Gardens
+Chandigarh,Chandigarh,North,Monument,Medium,18-60,January-April,Both,Open Hand Monument
+Chandigarh,Chandigarh,North,Food,Low,18-60,May-August,Both,Sector 17 Market

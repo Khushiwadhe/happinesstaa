@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Recommendation Form</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h2>Travel Recommendation System</h2>
+        <form action="/recommend" method="POST">
+
+            <div class="form-group">
+                <label for="zone">Zone:</label>
+                <select name="zone" id="zone" required>
+                    <option value="">Select Zone</option>
+                    <option value="Central">Central</option>
+                    <option value="North">North</option>
+                    <option value="South">South</option>
+                    <option value="East">East</option>
+                    <option value="West">West</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="state">State:</label>
+                <select name="state" id="state" required>
+                    <option value="">Select State</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="city">City:</label>
+                <select name="city" id="city" required>
+                    <option value="">Select City</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="age_group">Age Group:</label>
+                <select name="age_group" required>
+                    <option value="Teenagers">Teenagers</option>
+                    <option value="18-60">18-60</option>
+                    <option value="60-100">60-100</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="gender">Gender:</label>
+                <select name="gender" required>
+                    <option value="Both">Male</option>
+                    <option value="Both">Female</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="ideal_months">Ideal Travel Months:</label>
+                <select name="ideal_months" required>
+                    <option value="January-April">January-April</option>
+                    <option value="May-August">May-August</option>
+                    <option value="September-December">September-December</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="budget">Budget:</label>
+                <select name="budget" required>
+                    <option value="Low">Low</option>
+                    <option value="Medium">Medium</option>
+                    <option value="High">High</option>
+                </select>
+            </div>
+
+            <button type="submit">Get Recommendations</button>
+        </form>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            // Update States when Zone is selected
+            $("#zone").change(function () {
+                var selectedZone = $(this).val();
+                if (selectedZone) {
+                    $.ajax({
+                        url: "/get_states",
+                        type: "POST",
+                        contentType: "application/json",
+                        data: JSON.stringify({ zone: selectedZone }),
+                        success: function (data) {
+                            $("#state").empty().append('<option value="">Select State</option>');
+                            data.forEach(function (state) {
+                                $("#state").append('<option value="' + state + '">' + state + '</option>');
+                            });
+                            $("#city").empty().append('<option value="">Select City</option>'); // Reset City dropdown
+                        }
+                    });
+                } else {
+                    $("#state").empty().append('<option value="">Select State</option>');
+                    $("#city").empty().append('<option value="">Select City</option>');
+                }
+            });
+
+            // Update Cities when State is selected
+            $("#state").change(function () {
+                var selectedState = $(this).val();
+                if (selectedState) {
+                    $.ajax({
+                        url: "/get_cities",
+                        type: "POST",
+                        contentType: "application/json",
+                        data: JSON.stringify({ state: selectedState }),
+                        success: function (data) {
+                            $("#city").empty().append('<option value="">Select City</option>');
+                            data.forEach(function (city) {
+                                $("#city").append('<option value="' + city + '">' + city + '</option>');
+                            });
+                        }
+                    });
+                } else {
+                    $("#city").empty().append('<option value="">Select City</option>');
+                }
+            });
+        });
+    </script>
+</body>
+</html>

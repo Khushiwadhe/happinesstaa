@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Recommendations</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"
+
+</head>
+<body>
+    <h2>Recommended Travel Destinations</h2>
+    <table border="1">
+        <tr>
+            <th>Category</th>
+            <th>Destination</th>
+        </tr>
+        {% for recommendation in recommendations %}
+        <tr>
+            <td>{{ recommendation["Category"] }}</td>
+            <td>{{ recommendation["Destination"] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    <br>
+    <a href="/">Back to Home</a>
+</body>
+</html>
+
