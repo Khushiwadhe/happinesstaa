@@ -3,5 +3,5 @@
  information about various travel destinations in India and employs machine learning models to generate
  recommendations. The project is implemented using Python, Flask, and various machine learning
  libraries. The system is designed to be user-friendly, with a web-based interface that allows users to
- input their preferences and receive tailored travel recommendations..
+ input their preferences and receive tailored travel recommendations.
     
